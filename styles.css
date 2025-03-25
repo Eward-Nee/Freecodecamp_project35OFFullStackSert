@@ -1,0 +1,9 @@
+#navbar {
+    float: left;
+}
+
+@media (max-width: 1200px) {
+    #navbar {
+        float: right;
+    }
+}
